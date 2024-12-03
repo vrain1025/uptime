@@ -36,7 +36,8 @@ const workerConfig = {
       headers: {
         'User-Agent': 'Uptimeflare',
         Authorization: 'Bearer YOUR_TOKEN_HERE',
-      },
+       }
+      }    
   ],
   notification: {
     // [Optional] apprise API server URL
